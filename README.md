@@ -1,79 +1,55 @@
-<h1 align="center">Hi 👋, I’m Lindiwe Thabsile Dlomo</h1>
-<h3 align="center">Aspiring Software Engineer from Johannesburg, South Africa 🇿🇦</h3>
+# <div align="center">Hi 👋, I'm Lindiwe Thabsile Dlomo 🇿🇦</div>
 
-<p align="center">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding" width="300"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=500&lines=Aspiring+Software+Engineer;Focus+on+Inclusive+Tech;Constantly+Learning" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/LindiweD-Collab">
-    <img src="https://komarev.com/ghpvc/?username=LindiweD-Collab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/lindiwe-dlomo-b50050b8/" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:lindiwethaby@hotmail.com">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=0D1117" alt="Email" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LindiweD-Collab" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
----
+  <img src="https://custom-icon-badges.demolab.com/github/followers/LindiweD-Collab?color=236ad3&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers" />
+  <img src="https://custom-icon-badges.demolab.com/github/stars/LindiweD-Collab?color=55960c&labelColor=0D1117&style=for-the-badge&logo=star&logoColor=white" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=LindiweD-Collab&color=4285F4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
-### 💻 About Me
+<br />
 
-- 🔧 I’m passionate about building efficient, inclusive, and user-friendly tech solutions.  
-- 🌱 I’m currently growing my skills in **Python**, **JavaScript**, **Flask**, and **fullstack development**.  
-- 📂 All my projects live on my [GitHub](https://github.com/LindiweD-Collab).  
-- 📫 Reach me at: **lindiwethaby@hotmail.com**  
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lindiwe-dlomo-b50050b8/)  
-- 🧠 **Fun fact:** *"Anime is not just cartoons — it’s art, storytelling, and life lessons!"*
+## 💫 About Me
 
----
-
-### 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lindiwe-dlomo-b50050b8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LindiweD-Collab&show_icons=true&locale=en" alt="Lindiwe’s GitHub stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LindiweD-Collab&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
+```typescript
+const lindiwe = {
+  pronouns: "She/Her",
+  role: "Aspiring Software Engineer",
+  from: "Johannesburg, South Africa 🇿🇦",
+  passions: [
+    "Building efficient, inclusive, and user-friendly tech solutions",
+    "Anime, storytelling, and life lessons!" 
+  ],
+  currentlyLearning: [
+    "Python",
+    "JavaScript",
+    "Flask",
+    "Fullstack Development"
+  ],
+  askMeAbout: [
+    "Web Dev", "Tech", "Python", "JavaScript", "UI/UX"
+  ]
+};
