@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Lindiwe Thabsile Dlomo 🇿🇦</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=500&lines=Aspiring+Software+Engineer;Focus+on+Inclusive+Tech;Constantly+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F4A7B9&center=true&vCenter=true&random=false&width=500&lines=Aspiring+Software+Engineer;Focus+on+Inclusive+Tech;Constantly+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
