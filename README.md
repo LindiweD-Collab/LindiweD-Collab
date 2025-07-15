@@ -28,8 +28,15 @@
   <img src="https://custom-icon-badges.demolab.com/github/followers/LindiweD-Collab?color=236ad3&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers" />
   <img src="https://custom-icon-badges.demolab.com/github/stars/LindiweD-Collab?color=55960c&labelColor=0D1117&style=for-the-badge&logo=star&logoColor=white" alt="stars" />
   <img src="https://komarev.com/ghpvc/?username=LindiweD-Collab&color=4285F4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
+</div> 
+<br>
+ <div class="github-stats">
+                    <h3 class="sub-section-title text-center" style="margin-bottom: 2rem;">My GitHub Activity</h3>
+                    <div class="github-stats-grid">
+                        <img src="https://github-readme-stats.vercel.app/api?username=LindiweD-Collab&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=f7f7f7&title_color=333&text_color=555&icon_color=007bff" alt="Lindiwe's GitHub Stats" />
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindiweD-Collab&layout=compact&theme=radical&hide_border=true&bg_color=f7f7f7&title_color=333&text_color=555" alt="Lindiwe's Top Languages" />
+                    </div>
+                </div>
 <br />
 
 ## 💫 About Me
